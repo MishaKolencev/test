@@ -1,0 +1,28 @@
+.mainContainer {
+  display: flex;
+  width: 1180px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.filterForm {
+  width: 300px;
+  margin-right: 40px;
+}
+
+.vacancies {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.list {
+  flex-grow: 1;
+}
+
+.pagination {
+  display: flex;
+  padding: 24px;
+  align-items: center;
+  justify-content: center;
+}

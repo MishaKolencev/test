@@ -1,0 +1,4 @@
+.vacancyList {
+  display: flex;
+  flex-direction: column;
+}

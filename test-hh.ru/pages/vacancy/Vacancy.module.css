@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 980px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.name {
+  font-size: 36px;
+}
+
+.salary {
+  margin-top: 16px;
+  font-size: 22px;
+}
+
+.employer {
+  margin-top: 32px;
+  font-size: 22px;
+  color: #2998ff;
+}
+
+.area {
+  margin-top: 4px;
+  font-size: 14px;
+}
+
+.experienceEmployment {
+  margin-top: 32px;
+}
+
+.description {
+  margin-top: 40px;
+}
+
+.descriptionName {
+  font-size: 22px;
+}

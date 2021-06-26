@@ -1,0 +1,34 @@
+.listItem {
+  border: 1px solid #f1c846;
+  margin-top: -1px;
+  padding: 24px;
+  cursor: pointer;
+}
+
+.listItem:hover {
+  background-color: #f9f9f9;
+}
+
+.head {
+  display: flex;
+}
+
+.name {
+  flex-grow: 1;
+  color: #2998ff;
+  font-size: 18px;
+}
+
+.salary {
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 40px;
+  white-space: nowrap;
+  font-size: 18px;
+}
+
+.employer {
+  color: #999;
+  font-size: 14px;
+  margin-top: 12px;
+}

@@ -1,0 +1,16 @@
+.filterForm {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 40px;
+}
+
+.field {
+  margin-bottom: 24px !important;
+}
+
+.submit {
+  margin-top: 12px !important;
+}
